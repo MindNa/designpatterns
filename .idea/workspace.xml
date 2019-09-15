@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9ccc1b8-9462-43f2-9c4a-9b79d689be22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/composite/AbstractDuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/CountingDuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/DuckCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/DuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/DuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/EchoAndCountDuckFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Flock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Goose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/GooseAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Pigeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/PigeonAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/QuackCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/QuackEcho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/Quackable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/RedheadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/RubberDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/DuckSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/DuckSimulator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/EchoDuckFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/DuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/DuckSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/EchoDuckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/EchoAndCountDuckFactory.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +41,11 @@
   <component name="ProjectId" id="1QqHSFkaOoJKclIrQnanGPgaaFL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/abstract_factory" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/composite" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\designpatterns\src\composite" />
       <recent name="D:\designpatterns\src\abstract_factory" />
       <recent name="D:\designpatterns\src\decorator" />
     </key>
@@ -55,6 +69,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuckSimulator (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composite.DuckSimulator" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,6 +134,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.DuckSimulator (2)" />
+        <item itemvalue="Application.DuckSimulator (2)" />
         <item itemvalue="Application.DuckSimulator" />
         <item itemvalue="Application.DuckSimulator (1)" />
       </list>
@@ -123,6 +151,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568491204154</updated>
     </task>
+    <task id="LOCAL-00001" summary="add abstract_factory">
+      <created>1568506290129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568506290130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,5 +171,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add abstract_factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="add abstract_factory" />
   </component>
 </project>
