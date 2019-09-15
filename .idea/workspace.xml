@@ -2,90 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9ccc1b8-9462-43f2-9c4a-9b79d689be22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/META-INF/designpatterns.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/AbstractDuckFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/CountingDuckFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/DuckCall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/DuckFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/DuckSimulator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/EchoDuckFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/Goose.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/GooseAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/MallardDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/Pigeon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/PigeonAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/QuackCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/QuackEcho.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/Quackable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/RedheadDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/RubberDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/adapter/DuckCall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/adapter/DuckSimulator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/adapter/Goose.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/adapter/GooseAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/adapter/MallardDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/adapter/Pigeon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/adapter/PigeonAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/adapter/Quackable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/adapter/RedheadDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/adapter/RubberDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/DuckCall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/DuckSimulator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/Goose.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/GooseAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/MallardDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/Pigeon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/PigeonAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/QuackCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/QuackEcho.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/Quackable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/RedheadDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/designpatterns/decorator/RubberDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/AbstractDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/CountingDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/DuckCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/DuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/DuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/EchoDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/Goose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/GooseAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/Pigeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/PigeonAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/QuackCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/QuackEcho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/Quackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_factory/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/DuckCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/DuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/Goose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/GooseAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/Pigeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/PigeonAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/Quackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/RubberDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/DuckCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/DuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Goose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/GooseAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Pigeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/PigeonAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/QuackCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/QuackEcho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Quackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/RubberDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/DuckSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/DuckSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designpatterns/abstract_factory/EchoDuckFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstract_factory/DuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/DuckSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstract_factory/EchoDuckFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_factory/EchoAndCountDuckFactory.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DuckSimulator">
+  <component name="RunManager" selected="Application.DuckSimulator (2)">
     <configuration name="DuckSimulator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="decorator.DuckSimulator" />
       <module name="designpatterns" />
@@ -154,6 +75,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_factory.DuckSimulator" />
+      <module name="designpatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstract_factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="designpatterns" />
@@ -168,9 +102,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DuckSimulator" />
       <item itemvalue="Application.DuckSimulator (1)" />
+      <item itemvalue="Application.DuckSimulator (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuckSimulator (2)" />
         <item itemvalue="Application.DuckSimulator" />
         <item itemvalue="Application.DuckSimulator (1)" />
       </list>
