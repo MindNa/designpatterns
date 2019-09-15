@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9ccc1b8-9462-43f2-9c4a-9b79d689be22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/composite/AbstractDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/CountingDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/DuckCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/DuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/DuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/EchoAndCountDuckFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/Flock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/Goose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/GooseAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/Pigeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/PigeonAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/QuackCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/QuackEcho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/Quackable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/RedheadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composite/RubberDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/composite/Flock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composite/Flock.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568506290130</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add composite">
+      <created>1568507585770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568507585770</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +165,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add abstract_factory" />
-    <option name="LAST_COMMIT_MESSAGE" value="add abstract_factory" />
+    <MESSAGE value="add composite" />
+    <option name="LAST_COMMIT_MESSAGE" value="add composite" />
   </component>
 </project>
